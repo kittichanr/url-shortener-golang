@@ -2,6 +2,8 @@
 
 this repo can be use in only local environment not serve into the server.
 
+base on this blog -> `https://dev.to/mahadevans87/building-a-fast-url-shortener-with-go-and-redis-31b9`
+
 ## Installation
 
 ### Redis
